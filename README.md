@@ -69,7 +69,7 @@ Dit project is een initiatief van:
 * **Martin**
 * **Willem**
 
-Voor vragen, opmerkingen of feedback zijn we te bereiken via: **[jouw.project.email@voorbeeld.com](mailto:jouw.project.email@voorbeeld.com)**
+Voor vragen, opmerkingen of feedback zijn we te bereiken via: **martin.bakker50@gmail.com**
 
 ## Licentie
 
